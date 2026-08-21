@@ -6,11 +6,7 @@ I started maintaining this repository from **Day 38**. The projects from Days 1â
 
 ## Projects
 
-* Day 38 - [Project Name]
-* Day 39 - [Project Name]
-* Day 40 - [Project Name]
-* Day 41 - [Project Name]
-* ...
+* Day 37 - Habit Tracker
 
 ## What I'm Learning
 
