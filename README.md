@@ -2,6 +2,8 @@
 
 This repository contains the projects I built while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Angela Yu**.
 
+_If you don't find any day's project, that means it probably has a separate repository._
+
 I started maintaining this repository from **Day 37**. The projects from Days 1–36 were completed separately.
 
 ## Projects
