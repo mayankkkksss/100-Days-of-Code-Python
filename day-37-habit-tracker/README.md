@@ -72,8 +72,6 @@ TOKEN=your_pixela_token
 
 Create your own Pixela account and generate your own token.
 
-**Never commit API keys, tokens, passwords, or other sensitive credentials to GitHub.**
-
 ## Running the Project
 
 Run the following command:
