@@ -138,3 +138,5 @@ I learned how to:
 Instructor: **Angela Yu**
 
 Day: **38 / 100**
+
+**This README.md is AI-generated; perception are not.**
