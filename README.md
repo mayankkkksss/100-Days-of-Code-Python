@@ -1,4 +1,4 @@
-# 100 Days of Code - Python 🐍
+# 100 Days of Code - Python 👻
 
 This repository contains the projects I built while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Angela Yu**.
 
@@ -9,6 +9,7 @@ I started maintaining this repository from **Day 37**. The projects from Days 1�
 ## Projects
 
 * Day 37 - Habit Tracker
+* Day 38 - Workout Tracker
 
 ## What I'm Learning
 
@@ -30,7 +31,7 @@ Throughout the course, I'm learning and practicing:
 By **Angela Yu**
 
 ## Progress
-
+d
 **Day 38 / 100** 🚀
 
 I will continue adding my projects here as I progress through the course.
