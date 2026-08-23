@@ -35,4 +35,4 @@ By **Angela Yu**
 
 I will continue adding my projects here as I progress through the course.
 
-**This README.md is AI generated, thoughts are not.**
+**This README.md is AI-generated; perception are not.**
