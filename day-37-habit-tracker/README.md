@@ -1,4 +1,4 @@
-# Day 37 - Habit Tracker 📊
+# Day 37 - Habit Tracker
 
 This project was created as part of **100 Days of Code: The Complete Python Pro Bootcamp** by **Angela Yu**.
 
