@@ -8,8 +8,6 @@ I started maintaining this repository from **Day 37**. The projects from Days 1â
 
 ## Projects
 
-## Projects
-
 - [Day 37 - Habit Tracker](day-37-habit-tracker/)
 - [Day 38 - Workout Tracker](day-38-workout-tracker/)
 - [Day 39/40 The Flight Club Repository](https://github.com/mayankkkksss/TheFeelightClub)
