@@ -35,7 +35,7 @@ Throughout the course, I'm learning and practicing:
 By **Angela Yu**
 
 ## Progress
-d
+
 **Day 40 / 100**
 
 I will keep adding my projects here as I progress through the course.
